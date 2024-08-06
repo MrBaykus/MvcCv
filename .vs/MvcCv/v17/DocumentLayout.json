@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u015Eeref\\Desktop\\Code\\COD\\MvcCv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37FE0EB6-2818-4FE6-BBCA-AC0FE4A6DAC1}|MvcCv\\MvcCv.csproj|c:\\users\\\u015Feref\\desktop\\code\\cod\\mvccv\\mvccv\\views\\yetenek\\yetenekduzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37FE0EB6-2818-4FE6-BBCA-AC0FE4A6DAC1}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\yetenek\\yetenekduzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FE0EB6-2818-4FE6-BBCA-AC0FE4A6DAC1}|MvcCv\\MvcCv.csproj|c:\\users\\\u015Feref\\desktop\\code\\cod\\mvccv\\mvccv\\views\\yetenek\\yeniyetenek.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37FE0EB6-2818-4FE6-BBCA-AC0FE4A6DAC1}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\yetenek\\yeniyetenek.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YetenekDuzenle.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u015Eeref\\Desktop\\Code\\COD\\MvcCv\\MvcCv\\Views\\Yetenek\\YetenekDuzenle.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Yetenek\\YetenekDuzenle.cshtml",
+              "ToolTip": "C:\\Users\\\u015Eeref\\Desktop\\Code\\COD\\MvcCv\\MvcCv\\Views\\Yetenek\\YetenekDuzenle.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Yetenek\\YetenekDuzenle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T21:30:32.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YeniYetenek.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u015Eeref\\Desktop\\Code\\COD\\MvcCv\\MvcCv\\Views\\Yetenek\\YeniYetenek.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Yetenek\\YeniYetenek.cshtml",
+              "ToolTip": "C:\\Users\\\u015Eeref\\Desktop\\Code\\COD\\MvcCv\\MvcCv\\Views\\Yetenek\\YeniYetenek.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Yetenek\\YeniYetenek.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T21:27:59.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
