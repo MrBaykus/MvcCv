@@ -51,6 +51,8 @@ C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\roslyn\vbc.rsp
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\roslyn\VBCSCompiler.exe
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\Antlr3.Runtime.dll
+C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\EntityFramework.dll
+C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\EntityFramework.SqlServer.dll
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\System.Web.WebPages.Deployment.
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\System.Web.WebPages.dll
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\System.Web.WebPages.Razor.dll
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\WebGrease.dll
+C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\EntityFramework.xml
+C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\EntityFramework.SqlServer.xml
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\System.Web.Helpers.xml
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\System.Web.Mvc.xml
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\System.Web.Optimization.xml
@@ -77,7 +81,3 @@ C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\obj\Debug\MvcCv.csproj.CoreCompileI
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\obj\Debug\MvcCv.csproj.Up2Date
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\obj\Debug\MvcCv.dll
 C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\obj\Debug\MvcCv.pdb
-C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\EntityFramework.dll
-C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\EntityFramework.SqlServer.dll
-C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\EntityFramework.xml
-C:\Users\Şeref\Desktop\Code\COD\MvcCv\MvcCv\bin\EntityFramework.SqlServer.xml

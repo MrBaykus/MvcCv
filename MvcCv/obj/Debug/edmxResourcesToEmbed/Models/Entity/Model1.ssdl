@@ -61,11 +61,12 @@
     <Property Name="Mesaj" Type="varchar" MaxLength="1000" />
     <Property Name="Tarih" Type="date" />
   </EntityType>
-  <EntityType Name="TblSertifikalarım">
+  <EntityType Name="TblSertifikalarim">
     <Key>
       <PropertyRef Name="ID" />
     </Key>
     <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tarih" Type="varchar" MaxLength="30" />
     <Property Name="Aciklama" Type="varchar" MaxLength="250" />
   </EntityType>
   <EntityType Name="TblYeteneklerim">
@@ -83,7 +84,7 @@
     <EntitySet Name="TblHakkimda" EntityType="Self.TblHakkimda" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="TblHobilerim" EntityType="Self.TblHobilerim" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="TblIletisim" EntityType="Self.TblIletisim" Schema="dbo" store:Type="Tables" />
-    <EntitySet Name="TblSertifikalarım" EntityType="Self.TblSertifikalarım" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TblSertifikalarim" EntityType="Self.TblSertifikalarim" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="TblYeteneklerim" EntityType="Self.TblYeteneklerim" Schema="dbo" store:Type="Tables" />
   </EntityContainer>
 </Schema>

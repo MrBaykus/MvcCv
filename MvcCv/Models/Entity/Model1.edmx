@@ -66,11 +66,12 @@
           <Property Name="Mesaj" Type="varchar" MaxLength="1000" />
           <Property Name="Tarih" Type="date" />
         </EntityType>
-        <EntityType Name="TblSertifikalarım">
+        <EntityType Name="TblSertifikalarim">
           <Key>
             <PropertyRef Name="ID" />
           </Key>
           <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Tarih" Type="varchar" MaxLength="30" />
           <Property Name="Aciklama" Type="varchar" MaxLength="250" />
         </EntityType>
         <EntityType Name="TblYeteneklerim">
@@ -88,7 +89,7 @@
           <EntitySet Name="TblHakkimda" EntityType="Self.TblHakkimda" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="TblHobilerim" EntityType="Self.TblHobilerim" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="TblIletisim" EntityType="Self.TblIletisim" Schema="dbo" store:Type="Tables" />
-          <EntitySet Name="TblSertifikalarım" EntityType="Self.TblSertifikalarım" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TblSertifikalarim" EntityType="Self.TblSertifikalarim" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="TblYeteneklerim" EntityType="Self.TblYeteneklerim" Schema="dbo" store:Type="Tables" />
         </EntityContainer>
       </Schema></edmx:StorageModels>
@@ -156,11 +157,12 @@
           <Property Name="Mesaj" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
           <Property Name="Tarih" Type="DateTime" Precision="0" />
         </EntityType>
-        <EntityType Name="TblSertifikalarım">
+        <EntityType Name="TblSertifikalarim">
           <Key>
             <PropertyRef Name="ID" />
           </Key>
           <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Tarih" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="Aciklama" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
         </EntityType>
         <EntityType Name="TblYeteneklerim">
@@ -178,7 +180,7 @@
           <EntitySet Name="TblHakkimda" EntityType="Self.TblHakkimda" />
           <EntitySet Name="TblHobilerim" EntityType="Self.TblHobilerim" />
           <EntitySet Name="TblIletisim" EntityType="Self.TblIletisim" />
-          <EntitySet Name="TblSertifikalarım" EntityType="Self.TblSertifikalarım" />
+          <EntitySet Name="TblSertifikalarim" EntityType="Self.TblSertifikalarim" />
           <EntitySet Name="TblYeteneklerim" EntityType="Self.TblYeteneklerim" />
         </EntityContainer>
       </Schema>
@@ -254,10 +256,11 @@
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
-          <EntitySetMapping Name="TblSertifikalarım">
-            <EntityTypeMapping TypeName="DbCvModel.TblSertifikalarım">
-              <MappingFragment StoreEntitySet="TblSertifikalarım">
+          <EntitySetMapping Name="TblSertifikalarim">
+            <EntityTypeMapping TypeName="DbCvModel.TblSertifikalarim">
+              <MappingFragment StoreEntitySet="TblSertifikalarim">
                 <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Tarih" ColumnName="Tarih" />
                 <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
               </MappingFragment>
             </EntityTypeMapping>
