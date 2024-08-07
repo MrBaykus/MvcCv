@@ -61,11 +61,12 @@
     <Property Name="Mesaj" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
     <Property Name="Tarih" Type="DateTime" Precision="0" />
   </EntityType>
-  <EntityType Name="TblSertifikalarım">
+  <EntityType Name="TblSertifikalarim">
     <Key>
       <PropertyRef Name="ID" />
     </Key>
     <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Tarih" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="Aciklama" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
   </EntityType>
   <EntityType Name="TblYeteneklerim">
@@ -83,7 +84,7 @@
     <EntitySet Name="TblHakkimda" EntityType="Self.TblHakkimda" />
     <EntitySet Name="TblHobilerim" EntityType="Self.TblHobilerim" />
     <EntitySet Name="TblIletisim" EntityType="Self.TblIletisim" />
-    <EntitySet Name="TblSertifikalarım" EntityType="Self.TblSertifikalarım" />
+    <EntitySet Name="TblSertifikalarim" EntityType="Self.TblSertifikalarim" />
     <EntitySet Name="TblYeteneklerim" EntityType="Self.TblYeteneklerim" />
   </EntityContainer>
 </Schema>

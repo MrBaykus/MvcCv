@@ -68,10 +68,11 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <EntitySetMapping Name="TblSertifikalarım">
-      <EntityTypeMapping TypeName="DbCvModel.TblSertifikalarım">
-        <MappingFragment StoreEntitySet="TblSertifikalarım">
+    <EntitySetMapping Name="TblSertifikalarim">
+      <EntityTypeMapping TypeName="DbCvModel.TblSertifikalarim">
+        <MappingFragment StoreEntitySet="TblSertifikalarim">
           <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
           <ScalarProperty Name="Aciklama" ColumnName="Aciklama" />
         </MappingFragment>
       </EntityTypeMapping>
