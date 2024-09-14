@@ -29,9 +29,11 @@
 
 
                                                 <div class="time-label">
-                                                    <span class="bg-success">
-                                                        @item.Tarih
-                                                    </span>
+                                                    <a href="/Sertifika/SertifikaGetir/@item.ID" class="btn btn-success">
+                                                        <span class="bg-success">
+                                                            @item.Tarih
+                                                        </span>
+                                                    </a>
                                                 </div>
                                                 <!-- /.timeline-label -->
                                                 <!-- timeline item -->
@@ -42,14 +44,11 @@
                                                         <div class="timeline-body">
                                                             @item.Aciklama
                                                         </div>
-                                                        <div class="timeline-footer">
-                                                            <a href="#" class="btn btn-primary btn-sm">Düzenle</a>
-                                                            <a href="#" class="btn btn-danger btn-sm">Sil</a>
-                                                        </div>
                                                     </div>
                                                 </div>
                                                 }
                                             </div>
+                                            <a href="/Sertifika/YeniSertifika" class="btn btn-info">Yeni Sertifika Giriş</a>
                                         </div>
                                 </div>
                             </div>
