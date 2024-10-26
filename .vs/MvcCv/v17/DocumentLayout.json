@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{37FE0EB6-2818-4FE6-BBCA-AC0FE4A6DAC1}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\iletisim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37FE0EB6-2818-4FE6-BBCA-AC0FE4A6DAC1}|MvcCv\\MvcCv.csproj|c:\\users\\\u015Feref\\desktop\\code\\cod\\mvccv\\mvccv\\controllers\\iletisimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37FE0EB6-2818-4FE6-BBCA-AC0FE4A6DAC1}|MvcCv\\MvcCv.csproj|C:\\Users\\\u015Eeref\\Desktop\\Code\\COD\\MvcCv\\mvccv\\controllers\\iletisimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37FE0EB6-2818-4FE6-BBCA-AC0FE4A6DAC1}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\controllers\\iletisimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +48,7 @@
               "RelativeDocumentMoniker": "MvcCv\\Views\\Iletisim\\Index.cshtml",
               "ToolTip": "C:\\Users\\\u015Eeref\\Desktop\\Code\\COD\\MvcCv\\MvcCv\\Views\\Iletisim\\Index.cshtml",
               "RelativeToolTip": "MvcCv\\Views\\Iletisim\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-16T13:13:31.975Z",
               "EditorCaption": ""
@@ -41,7 +61,7 @@
               "RelativeDocumentMoniker": "MvcCv\\Controllers\\IletisimController.cs",
               "ToolTip": "C:\\Users\\\u015Eeref\\Desktop\\Code\\COD\\MvcCv\\MvcCv\\Controllers\\IletisimController.cs",
               "RelativeToolTip": "MvcCv\\Controllers\\IletisimController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T13:13:05.648Z",
               "EditorCaption": ""
