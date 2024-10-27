@@ -11,7 +11,7 @@ namespace MvcCv.Controllers
     public class EgitimController : Controller
     {
         // GET: Egitim
-        GenericRepository<TblEgitimlerim> repo = new GenericRepository<TblEgitimlerim>();
+        private readonly GenericRepository<TblEgitimlerim> repo = new GenericRepository<TblEgitimlerim>();
         public ActionResult Index()
         {
             var egitim = repo.List();
