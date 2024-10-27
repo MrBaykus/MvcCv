@@ -1,2 +1,2 @@
 # MVCCV
- MVC ile dinamik admin panelli CV sitesi
+"CV site with a dynamic admin panel using MVC"
